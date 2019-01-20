@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 //+A
 //+B
+//+c
 @interface ViewController : UIViewController
 
 
